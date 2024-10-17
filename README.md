@@ -19,6 +19,8 @@ I'm **DevURANIUM**, a developer who loves creating tools and scripts that automa
 
 ### 📫 How to Reach Me
 - **Telegram**: [@DevURANIUM](https://t.me/DevURANIUM)
+- **Email**: info@heydari.org
+- **X** (formerly Twitter): [@DevURANIUM](https://x.com/DevURANIUM)
 - **GitHub Issues**: Reach out through any of my repositories if you have questions or suggestions.
 
 ### ⚡ Fact:

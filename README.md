@@ -1,6 +1,6 @@
 ## 👋 Welcome to DevURANIUM's GitHub
 
-Hi, I'm **DevURANIUM** — a developer passionate about building tools that **automate workflows, boost productivity, and simplify complex tasks** for developers and system administrators.
+Hi, I'm **DevURANIUM** - a developer passionate about building tools that **automate workflows, boost productivity, and simplify complex tasks** for developers and system administrators.
 
 From server automation to network analysis and bot development, I enjoy turning repetitive problems into elegant solutions.
 

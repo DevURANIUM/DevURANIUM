@@ -42,5 +42,3 @@ From server automation to network analysis and bot development, I enjoy turning 
 ### ⚡ Fun Thought
 
 > "Anything new is good… except for two things: music and cars."
-
----

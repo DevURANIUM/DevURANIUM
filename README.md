@@ -33,9 +33,9 @@ From server automation to network analysis and bot development, I enjoy turning 
 
 ### 📫 Get in Touch
 
-* 📧 Email: [info@heydari.org](mailto:info@heydari.org)
-* 🐦 X (Twitter): [@DevURANIUM](https://x.com/DevURANIUM)
-* 💡 GitHub Issues: Feel free to open an issue in any repo
+* 📧 Email : [info@heydari.org](mailto:info@heydari.org)
+* 🐦 X (Twitter) : [@DevURANIUM](https://x.com/DevURANIUM)
+* 💡 GitHub Issues : Feel free to open an issue in any repo
 
 ---
 
